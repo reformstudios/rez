@@ -9,6 +9,8 @@ To install rez, download the source. Then from the root directory, run:
 This installs rez to `/opt/rez`. See `install.py -h` for how to install to a
 different location.
 
+> [[media/icons/info.png]] If you are installing on OSX you will probably want to install to a different directory; eg `python ./install.py ~/rez`
+
 Once the installation is complete, a message tells you how to run it:
 
 ```
